@@ -1,0 +1,8 @@
+{
+  "name": "EPA Digital Service",
+  "description": "Agence digitale basée au Cameroun accompagnant les entrepreneurs, vendeurs et créateurs d'Afrique francophone et anglophone sur Facebook, TikTok et YouTube.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
